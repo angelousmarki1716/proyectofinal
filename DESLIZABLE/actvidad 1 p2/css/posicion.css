@@ -1,0 +1,27 @@
+.caja-1
+{
+	position: relative;
+	left: 400px;
+}
+.caja-2
+{
+	position: absolute;
+	top: 5px;
+}
+.contenedor
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top: 150px;
+}
+.cabecera
+{
+	position: fixed;
+	width: 100%;
+	top: 120px;
+}
+.caja-3
+{
+	position: fixed;
+}

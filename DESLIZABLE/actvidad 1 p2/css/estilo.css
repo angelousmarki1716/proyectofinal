@@ -1,0 +1,45 @@
+.caja-1
+{
+	background-color: pink;
+}
+.caja-2
+{
+	background-color: yellowgreen;
+
+.caja-3 
+{
+	background-color: yellowgreen;
+}
+.caja-4
+{
+	background-color: yellowgreen;
+}
+.caja-5
+{
+	background-color: yellowgreen;
+}
+.caja-6
+{
+	background-color: yellowgreen;
+}
+.caja
+{
+	height: 100px;
+	width: 100px;
+
+
+}
+.contenedor
+{
+
+	margin: 50px auto;
+	border: 5px solid black;
+	width: 300px;
+}
+.cabecera
+{
+	background-color: red;
+	color: black;
+	text-align: center;
+	padding: 20 PX 0;
+}
